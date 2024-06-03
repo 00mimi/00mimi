@@ -3,7 +3,11 @@ Mirella;
 
 estudante;
 
+estudando Alura;
+
 nesta conta será compartilhado alguns projetos escolares.
+
+MEU EMAIL:00001085361974sp@al.educacao.sp.gov.br
 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
